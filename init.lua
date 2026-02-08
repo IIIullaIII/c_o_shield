@@ -20,7 +20,6 @@ end
 
 
 local shields_list = {
-  {name = "owner",     descr = S("Owner Shield"),        prot = 20},
   {name = "admin",     descr = S("Admin Shield"),        prot = 20},
   {name = "dev",       descr = S("Developer Shield"),    prot = 18},
   {name = "mod",       descr = S("Moderator Shield"),    prot = 15},
@@ -31,7 +30,7 @@ local shields_list = {
   {name = "hacker",    descr = S("Hacker Shield"),       prot = 20},
   {name = "cont",      descr = S("Contributor Shield"),  prot = 10},
   {name = "noob",      descr = S("Noob Shield"),         prot = 5},
-  {name = "Idle",      descr = S("Idle Shield"),         prot = 5},
+  {name = "idle",      descr = S("Idle Shield"),         prot = 5},
 }
 
 -- Indice rapido: rank_key -> true
