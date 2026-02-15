@@ -1,4 +1,32 @@
-Supreme Admin Shield=Scudo Supremo Admin
-Official Staff Shield=Scudo Ufficiale Staff
-Contributor Shield=Scudo del Sostenitore
+# Italian translation for c_o_shield mod
+
+Admin Shield=Scudo Admin
+Developer Shield=Scudo Sviluppatore
+Moderator Shield=Scudo Moderatore
+Manager Shield=Scudo Manager
 Builder Shield=Scudo del Costruttore
+Guardian Shield=Scudo Guardiano
+T-Guardian Shield=Scudo T-Guardiano
+Hacker Shield=Scudo Hacker
+Contributor Shield=Scudo del Sostenitore
+Noob Shield=Scudo Noob
+Idle Shield=Scudo Inattivo
+
+3d_armor not found (global variable 'armor' missing).=3d_armor non trovato (variabile globale 'armor' mancante).
+Shield registered=Scudo registrato
+Shield disabled=Scudo disabilitato
+Found armor inventory for=Inventario armatura trovato per
+Found shield in armor slot=Scudo trovato nello slot armatura
+Swapping equipped shield=Scambio dello scudo equipaggiato
+Equipped shield is already correct=Lo scudo equipaggiato è già corretto
+No armor inventory found for=Nessun inventario armatura trovato per
+Checking main inventory for non-equipped shields=Controllo inventario principale per scudi non equipaggiati
+Found non-equipped shield in main slot=Scudo non equipaggiato trovato nello slot principale
+Swapping=Scambio
+Armor updated for=Armatura aggiornata per
+No changes needed for=Nessuna modifica necessaria per
+Hooking into staffranks.add_rank=Connessione a staffranks.add_rank
+staffranks mod not found, automatic rank detection disabled=Mod staffranks non trovata, rilevamento automatico del grado disabilitato
+Running enforce_shield after rank change=Esecuzione enforce_shield dopo il cambio di grado
+Player joined=Giocatore entrato
+3d_armor not found=3d_armor non trovato
